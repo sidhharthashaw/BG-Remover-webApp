@@ -11,9 +11,10 @@ This Flask web application allows users to upload images and remove their backgr
 ## Prerequisites
 
 - Python 3.x
-- Flask
-- Pillow
-- rembg
+- Flask==2.0.3
+- Pillow==9.0.1
+- rembg==2.0.32
+- Werkzeug==2.0.3
 
 ## Installation
 
